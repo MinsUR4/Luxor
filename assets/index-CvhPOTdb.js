@@ -2496,7 +2496,7 @@ const me = new cs(),
       children: [
         a.jsx("img", {
           id: "logo",
-          src: "\\Slot-Machine\\assets\\images\\game_logo.svg",
+          src: "\\Slot-Machine\\assets\\images\\game_logo.png",
           alt: "Loading_logo",
         }),
         a.jsx("img", {
